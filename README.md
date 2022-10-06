@@ -1,2 +1,2 @@
-# turmaN-3tri
-Quinta feiras das 9 às 10: 40 hrs
+# formacaoEM-3tri
+##Repositório para guardar o projeto feito na formação Ensino Médio
