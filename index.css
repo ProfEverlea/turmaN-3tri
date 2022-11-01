@@ -56,3 +56,7 @@ p {
 	color: blue;
 	text-decoration: underline;
 }
+h1, h2, h3,p{
+    padding: 5px;
+    margin: 05px;
+}
